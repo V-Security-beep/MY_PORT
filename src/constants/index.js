@@ -57,17 +57,17 @@ export const mySocials = [
   {
     name: "GitHub",
     href: "https://github.com/V-Security-beep",
-    icon: "/assets/socials/github1.svg",
+    icon: "assets/socials/github1.svg",
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/vanshika-bongade-aaa03a318",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: "assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
     href: "https://www.instagram.com/the_vanshika23/profilecard/?igsh=MXR0cnh5cmtjMG9iZg==",
-    icon: "/assets/socials/instagram.svg",
+    icon: "assets/socials/instagram.svg",
   },
 ];
 
